@@ -26,6 +26,14 @@ const startBa = async () => {
 	try {
 		const result = (await Axios(config)).data.outbound_availability;
         let availableDates: any[] = []
+        for (let i = 13; i < 27; i++) {
+            const date = `2022-12-${i}`
+            const availability = result[date]
+            if(!!availability) {
+                availableDates.push({[date]: availability});
+            }
+        }
+
 	} catch (error) {
         console.log(error)
     }
