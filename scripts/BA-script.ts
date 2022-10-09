@@ -1,3 +1,7 @@
+import Axios from 'axios-https-proxy-fix';
+console.log('==> Starting Script')
+
+const startBa = async () => {
 	let config = {
 		method: 'get',
 		url: 'https://lu7oe93qmi.execute-api.eu-west-2.amazonaws.com/production/calendar-availability/british-airways?source_code=LON&destination_code=ACC&tier=blue&number_of_passengers=1',
@@ -19,5 +23,10 @@
 		},
 	};
 
+	try {
 		const result = (await Axios(config)).data.outbound_availability;
         let availableDates: any[] = []
+	} catch (error) {
+        console.log(error)
+    }
+};
