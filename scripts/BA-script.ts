@@ -1,4 +1,5 @@
 import Axios from 'axios-https-proxy-fix';
+import { sendWebhook } from './sendWebhook';
 import { config as env} from '../config';
 
 console.log('==> Starting Script')
@@ -37,6 +38,7 @@ const startBa = async () => {
         }
 
 		if(!!availableDates.length) {
+			await sendWebhook(availableDates)
 			console.log('\x1b[32m%s\x1b[0m', `Flight found! \n${JSON.stringify(availableDates)}.`)
 
 		} else {
