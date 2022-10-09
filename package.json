@@ -1,0 +1,20 @@
+{
+	"name": "reward-flight-checker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "ts-node scripts/BA-script.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios-https-proxy-fix": "^0.17.1"
+	},
+	"devDependencies": {
+		"@types/node": "^18.8.3",
+		"tslib": "^2.4.0"
+	}
+}
