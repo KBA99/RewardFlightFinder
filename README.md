@@ -1,5 +1,8 @@
-Created By Kwabena Ankobia
+This script searches british the reward flight finder website for flights from London to Ghana.
 ===
+
+<h2>Created By Kwabena Ankobia<h2>
+<h4>Further configurations can be made to alter the location and dates on user request<h5>
 
 Prerequisites
 ---
