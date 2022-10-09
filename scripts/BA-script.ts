@@ -1,8 +1,8 @@
 import Axios from 'axios-https-proxy-fix';
 import { sendWebhook } from './sendWebhook';
-import { config as env} from '../config';
+import { config as env } from '../config';
 
-console.log('==> Starting Script')
+console.log('==> Starting Script');
 
 const startBa = async () => {
 	let config = {
@@ -22,33 +22,37 @@ const startBa = async () => {
 			'sec-fetch-mode': 'cors',
 			'sec-fetch-site': 'cross-site',
 			'user-agent':
-				'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+				'Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ',
 		},
 	};
 
 	try {
 		const result = (await Axios(config)).data.outbound_availability;
-        let availableDates: any[] = []
-        for (let i = 13; i < 27; i++) {
-            const date = `2022-12-${i}`
-            const availability = result[date]
-            if(!!availability) {
-                availableDates.push({[date]: availability});
-            }
-        }
+		let availableDates: any[] = [];
+		for (let i = 13; i < 27; i++) {
+			const date = `2022-12-${i}`;
+			const availability = result[date];
+			if (!!availability) {
+				availableDates.push({ [date]: availability });
+			}
+		}
 
-		if(!!availableDates.length) {
-			await sendWebhook(availableDates)
-			console.log('\x1b[32m%s\x1b[0m', `Flight found! \n${JSON.stringify(availableDates)}.`)
-
+		if (!!availableDates.length) {
+			await sendWebhook(availableDates);
+			console.log('\x1b[32m%s\x1b[0m', `Flight found! \n${JSON.stringify(availableDates)}.`);
 		} else {
-			console.log('\x1b[31m%s\x1b[0m', `No Flights found. Checking for reward flight in ${env.cooldown_time/1000} seconds.`)
+			console.log(
+				'\x1b[31m%s\x1b[0m',
+				`No Flights found. Checking for reward flight in ${
+					env.cooldown_time / 1000
+				} seconds.`
+			);
 		}
 	} catch (error) {
-        console.log(error)
-    }
+		console.log(error);
+	}
 };
 
 setInterval(() => {
-	startBa()
-}, env.cooldown_time)
+	startBa();
+}, env.cooldown_time);
