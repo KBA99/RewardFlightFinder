@@ -1,4 +1,6 @@
 import Axios from 'axios-https-proxy-fix';
+import { config as env} from '../config';
+
 console.log('==> Starting Script')
 
 const startBa = async () => {
@@ -34,7 +36,17 @@ const startBa = async () => {
             }
         }
 
+		if(!!availableDates.length) {
+			console.log('\x1b[32m%s\x1b[0m', `Flight found! \n${JSON.stringify(availableDates)}.`)
+
+		} else {
+			console.log('\x1b[31m%s\x1b[0m', `No Flights found. Checking for reward flight in ${env.cooldown_time/1000} seconds.`)
+		}
 	} catch (error) {
         console.log(error)
     }
 };
+
+setInterval(() => {
+	startBa()
+}, env.cooldown_time)
