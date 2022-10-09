@@ -16,6 +16,7 @@ $ npm install
 
 <p>Inside the config.ts file, add your discord webhook url.<p>
 <p>To run the script, run the command below.<p>
+
 ```
 $ npm run start
 ```
