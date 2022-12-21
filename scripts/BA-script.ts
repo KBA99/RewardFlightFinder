@@ -43,7 +43,7 @@ const startBa = async () => {
 		} else {
 			console.log(
 				'\x1b[31m%s\x1b[0m',
-				`No Flights found. Checking for reward flight in ${
+				`${(new Date)} No Flights found. Checking for reward flight in ${
 					env.cooldown_time / 1000
 				} seconds.`
 			);
