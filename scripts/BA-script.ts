@@ -27,23 +27,58 @@ const startBa = async () => {
 	};
 
 	try {
-		const result = (await Axios(config)).data.outbound_availability;
-		let availableDates: any[] = [];
-		for (let i = 13; i < 27; i++) {
+		const result = (await Axios(config)).data;
+		const outDates = result.outbound_availability;
+		const returnDates = result.inbound_availability;
+		const outboundAvailableDates: any[] = [];
+		const inboudAvailableDates: any[] = [];
+
+		for (let i = 10; i < 30; i++) {
+			// Construct date string in the format "YYYY-MM-DD"
 			const date = `2022-12-${i.toString().padStart(2, '0')}`;
-			const availability = result[date];
-			if (!!availability) {
-				availableDates.push({ [date]: availability });
+
+			// Check the availability for the current date
+			const outDatesAvailability = outDates[date];
+
+			// If there is availability for the current date, add it to the availableDates array
+			if (!!outDatesAvailability) {
+				outboundAvailableDates.push({ [date]: outDatesAvailability });
 			}
 		}
 
-		if (!!availableDates.length) {
-			await sendWebhook(availableDates);
-			console.log('\x1b[32m%s\x1b[0m', `Flight found! \n${JSON.stringify(availableDates)}.`);
+		for (let day = 1; day < 30; day++) {
+			// Construct date string in the format "YYYY-MM-DD"
+			const date = `2022-12-${day.toString().padStart(2, '0')}`;
+
+			// Check the availability for the current date
+			const returnDatesAvailability = returnDates[date];
+
+			// If there is availability for the current date, add it to the availableDates array
+			if (!!returnDatesAvailability) {
+				inboudAvailableDates.push({ [date]: returnDatesAvailability });
+			}
+		}
+
+		if (!!outboundAvailableDates.length || !!inboudAvailableDates.length) {
+			if (!!outboundAvailableDates.length) {
+				await sendWebhook(outboundAvailableDates, 'Outbound');
+				console.log(
+					'\x1b[32m%s\x1b[0m',
+					`Flight found! \n${JSON.stringify(outboundAvailableDates)}.`
+				);
+			}
+
+			if (!!inboudAvailableDates.length) {
+				await sendWebhook(inboudAvailableDates, 'Inbound');
+				console.log(
+					'\x1b[33m%s\x1b[0m',
+					`Flight found! \n${JSON.stringify(inboudAvailableDates)}.`
+				);
+			}
 		} else {
 			console.log(
 				'\x1b[31m%s\x1b[0m',
-				`${(new Date)} No Flights found. Checking for reward flight in ${
+				`${new Date()} No Flights found. Checking for reward flight in ${
 					env.cooldown_time / 1000
 				} seconds.`
 			);
