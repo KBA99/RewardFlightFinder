@@ -34,11 +34,13 @@ const startBa = async () => {
 
 		// Process flight data
 		const outboundAvailableDates = getAvailableDates(outDates, 10, 30, 4, 2023);
-		const inboundAvailableDates = getAvailableDates(returnDates, 1, 30, 2, 2023);
+		const inboundAvailableDates = getAvailableDates(returnDates, 4, 30, 1, 2023);
 
 		// Log results
-		if (!!outboundAvailableDates.length || !!inboundAvailableDates.length) {
-			if (!!outboundAvailableDates.length && env.check_out_flights) {
+		const checkOutFlights = !!outboundAvailableDates.length && env.check_out_flights;
+		const checkReturnFlgihts = !!inboundAvailableDates.length && env.check_return_flights;
+		if (checkOutFlights || checkReturnFlgihts) {
+			if (checkOutFlights) {
 				await sendWebhook(outboundAvailableDates, 'Outbound');
 				console.log(
 					'\x1b[32m%s\x1b[0m',
@@ -46,7 +48,7 @@ const startBa = async () => {
 				);
 			}
 
-			if (!!inboundAvailableDates.length && env.check_return_flights) {
+			if (checkReturnFlgihts) {
 				await sendWebhook(inboundAvailableDates, 'Inbound');
 				console.log(
 					'\x1b[33m%s\x1b[0m',
