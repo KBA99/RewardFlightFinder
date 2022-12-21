@@ -27,40 +27,18 @@ const startBa = async () => {
 	};
 
 	try {
+		// Fetch flight data
 		const result = (await Axios(config)).data;
 		const outDates = result.outbound_availability;
 		const returnDates = result.inbound_availability;
-		const outboundAvailableDates: any[] = [];
-		const inboudAvailableDates: any[] = [];
 
-		for (let i = 10; i < 30; i++) {
-			// Construct date string in the format "YYYY-MM-DD"
-			const date = `2022-12-${i.toString().padStart(2, '0')}`;
+		// Process flight data
+		const outboundAvailableDates = getAvailableDates(outDates, 10, 30, 4, 2023);
+		const inboundAvailableDates = getAvailableDates(returnDates, 1, 30, 2, 2023);
 
-			// Check the availability for the current date
-			const outDatesAvailability = outDates[date];
-
-			// If there is availability for the current date, add it to the availableDates array
-			if (!!outDatesAvailability) {
-				outboundAvailableDates.push({ [date]: outDatesAvailability });
-			}
-		}
-
-		for (let day = 1; day < 30; day++) {
-			// Construct date string in the format "YYYY-MM-DD"
-			const date = `2022-12-${day.toString().padStart(2, '0')}`;
-
-			// Check the availability for the current date
-			const returnDatesAvailability = returnDates[date];
-
-			// If there is availability for the current date, add it to the availableDates array
-			if (!!returnDatesAvailability) {
-				inboudAvailableDates.push({ [date]: returnDatesAvailability });
-			}
-		}
-
-		if (!!outboundAvailableDates.length || !!inboudAvailableDates.length) {
-			if (!!outboundAvailableDates.length) {
+		// Log results
+		if (!!outboundAvailableDates.length || !!inboundAvailableDates.length) {
+			if (!!outboundAvailableDates.length && env.check_out_flights) {
 				await sendWebhook(outboundAvailableDates, 'Outbound');
 				console.log(
 					'\x1b[32m%s\x1b[0m',
@@ -68,11 +46,11 @@ const startBa = async () => {
 				);
 			}
 
-			if (!!inboudAvailableDates.length) {
-				await sendWebhook(inboudAvailableDates, 'Inbound');
+			if (!!inboundAvailableDates.length && env.check_return_flights) {
+				await sendWebhook(inboundAvailableDates, 'Inbound');
 				console.log(
 					'\x1b[33m%s\x1b[0m',
-					`Flight found! \n${JSON.stringify(inboudAvailableDates)}.`
+					`Flight found! \n${JSON.stringify(inboundAvailableDates)}.`
 				);
 			}
 		} else {
@@ -87,6 +65,26 @@ const startBa = async () => {
 		console.log(error);
 	}
 };
+
+function getAvailableDates(dates: { [x: string]: any }, startDay: number, endDay: number, month: number, year: number) {
+	const availableDates: any[] = [];
+
+	// Iterate through days in the specified range
+	for (let day = startDay; day < endDay; day++) {
+		// Construct date string in the format "YYYY-MM-DD"
+		const date = `${year}-${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+
+		// Check the availability for the current date
+		const datesAvailability = dates[date];
+
+		// If there is availability for the current date, add it to the availableDates array
+		if (!!datesAvailability) {
+			availableDates.push({ [date]: datesAvailability });
+		}
+	}
+
+	return availableDates;
+}
 
 setInterval(() => {
 	startBa();
