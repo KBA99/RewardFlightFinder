@@ -34,7 +34,7 @@ const startBa = async () => {
 
 		// Process flight data
 		const outboundAvailableDates = getAvailableDates(outDates, 10, 30, 4, 2023);
-		const inboundAvailableDates = getAvailableDates(returnDates, 4, 30, 1, 2023);
+		const inboundAvailableDates = getAvailableDates(returnDates, 1, 30, 1, 2023);
 
 		// Log results
 		const checkOutFlights = !!outboundAvailableDates.length && env.check_out_flights;
@@ -44,7 +44,7 @@ const startBa = async () => {
 				await sendWebhook(outboundAvailableDates, 'Outbound');
 				console.log(
 					'\x1b[32m%s\x1b[0m',
-					`Flight found! \n${JSON.stringify(outboundAvailableDates)}.`
+					`Outbound Flight found! \n${JSON.stringify(outboundAvailableDates)}.`
 				);
 			}
 
@@ -52,7 +52,7 @@ const startBa = async () => {
 				await sendWebhook(inboundAvailableDates, 'Inbound');
 				console.log(
 					'\x1b[33m%s\x1b[0m',
-					`Flight found! \n${JSON.stringify(inboundAvailableDates)}.`
+					`Inbound Flight found! \n${JSON.stringify(inboundAvailableDates)}.`
 				);
 			}
 		} else {
