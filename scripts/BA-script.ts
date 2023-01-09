@@ -33,7 +33,7 @@ const startBa = async () => {
 		const returnDates = result.inbound_availability;
 
 		// Process flight data
-		const outboundAvailableDates = getAvailableDates(outDates, 10, 30, 4, 2023);
+		const outboundAvailableDates = getAvailableDates(outDates, 9, 30, 2, 2023);
 		const inboundAvailableDates = getAvailableDates(returnDates, 1, 30, 1, 2023);
 
 		// Log results
