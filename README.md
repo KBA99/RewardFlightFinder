@@ -21,4 +21,4 @@ $ npm install
 $ npm run start
 ```
 
-
+`Add a discord webhook to the config.ts file`
