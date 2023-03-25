@@ -7,7 +7,7 @@ console.log('==> Starting Script');
 const startBa = async () => {
 	let config = {
 		method: 'get',
-		url: 'https://lu7oe93qmi.execute-api.eu-west-2.amazonaws.com/production/calendar-availability/british-airways?source_code=LON&destination_code=ACC&tier=blue&number_of_passengers=1',
+		url: `https://lu7oe93qmi.execute-api.eu-west-2.amazonaws.com/production/calendar-availability/british-airways?source_code=${env.baseLocation}&destination_code=${env.destination}&tier=blue&number_of_passengers=${env.passegers}`,
 		headers: {
 			authority: 'lu7oe93qmi.execute-api.eu-west-2.amazonaws.com',
 			accept: '*/*',
