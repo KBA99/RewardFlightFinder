@@ -1,0 +1,3 @@
+[SUCCESS] 8/5/2025 | 3:12:21 PM :: [Initialize][Database] MongoDB Connected 🧳
+[SUCCESS] 8/5/2025 | 3:12:21 PM :: [Initialize][Database] Databse URL: mongodb+srv://more-hands-1:mOhxreyUdWSweyl4@more-hands-cluster.5fwdkze.mongodb.net/more-hands?retryWrites=true&w=majority
+[SUCCESS] 8/5/2025 | 3:12:21 PM :: [Initialize][Database] QueueIt Cleaner Initialized: mongodb+srv://more-hands-1:mOhxreyUdWSweyl4@more-hands-cluster.5fwdkze.mongodb.net/more-hands?retryWrites=true&w=majority

@@ -1,6 +1,7 @@
 import axios from 'axios-https-proxy-fix';
 import { sendWebhook } from './sendWebhook';
 import { config as env } from '../config';
+import { ProxyImport } from '../proxy/proxy-import';
 
 console.log('==> Starting Script');
 
@@ -43,6 +44,7 @@ const checkFlight = async (flightConfig: any) => {
 			'user-agent':
 				'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
 			Cookie: 'connect.sid=s%3ANgzLIvpeQthVXdrOD9eBnIt9Ps59yfTT.EoWBIdWFVY9vf9jLsHDz84uGOCvK9RgPUdOAOEoI%2B1Q',
+			proxy: ProxyImport.getRandomAxiosProxy(ProxyImport.PROXY_TYPE.xyzLive1)
 		},
 	};
 

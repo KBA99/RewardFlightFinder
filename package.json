@@ -11,6 +11,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"axios": "^1.13.1",
 		"axios-https-proxy-fix": "^0.17.1"
 	},
 	"devDependencies": {

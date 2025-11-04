@@ -1,0 +1,988 @@
+[INFO] 8/3/2025 | 9:43:51 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 9:43:51 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 9:43:51 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 9:43:51 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 9:43:51 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 9:43:51 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 9:43:51 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 9:43:51 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 9:43:51 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 9:43:51 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 9:43:51 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 9:43:51 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 9:43:51 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 9:43:51 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 9:43:51 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 9:43:51 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 9:49:45 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 9:49:45 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 9:49:45 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 9:49:45 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 9:49:45 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 9:49:45 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 9:49:45 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 9:49:45 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 9:49:45 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 9:49:45 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 9:49:45 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 9:49:45 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 9:49:45 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 9:49:45 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 9:49:45 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 9:49:45 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 10:05:04 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 10:05:04 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 10:05:04 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 10:05:04 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 10:05:04 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 10:05:04 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 10:05:04 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 10:05:04 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 10:05:04 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 10:05:04 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 10:05:04 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 10:05:04 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 10:05:04 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 10:05:04 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 10:05:04 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 10:05:04 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 10:05:14 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 10:05:14 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 10:05:14 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 10:05:14 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 10:05:14 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 10:05:14 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 10:05:14 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 10:05:14 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 10:05:14 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 10:05:14 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 10:05:14 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 10:05:14 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 10:05:14 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 10:05:14 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 10:05:14 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 10:05:14 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 10:05:25 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 10:05:25 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 10:05:25 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 10:05:25 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 10:05:25 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 10:05:25 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 10:05:25 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 10:05:25 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 10:05:25 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 10:05:25 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 10:05:25 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 10:05:25 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 10:05:25 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 10:05:25 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 10:05:25 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 10:05:25 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 10:05:44 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 10:05:44 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 10:05:44 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 10:05:44 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 10:05:44 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 10:05:44 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 10:05:44 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 10:05:44 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 10:05:44 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 10:05:44 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 10:05:44 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 10:05:44 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 10:05:44 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 10:05:44 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 10:05:44 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 10:05:44 PM :: 10000 proxies imported for type: vital
+[INFO] 8/3/2025 | 10:22:02 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/3/2025 | 10:22:02 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/3/2025 | 10:22:02 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/3/2025 | 10:22:02 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/3/2025 | 10:22:02 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/3/2025 | 10:22:02 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/3/2025 | 10:22:02 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/3/2025 | 10:22:02 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/3/2025 | 10:22:02 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/3/2025 | 10:22:02 PM :: 10000 proxies imported for type: koch
+[INFO] 8/3/2025 | 10:22:02 PM :: 1000 proxies imported for type: bart
+[INFO] 8/3/2025 | 10:22:02 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/3/2025 | 10:22:02 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/3/2025 | 10:22:02 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/3/2025 | 10:22:02 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/3/2025 | 10:22:02 PM :: 10000 proxies imported for type: vital
+[INFO] 8/5/2025 | 2:56:52 PM :: 253 proxies imported for type: xyz-binned-1
+[INFO] 8/5/2025 | 2:56:52 PM :: 50 proxies imported for type: xyz-binned-2
+[INFO] 8/5/2025 | 2:56:52 PM :: 250 proxies imported for type: xyz-binned-3
+[INFO] 8/5/2025 | 2:56:52 PM :: 250 proxies imported for type: xyz-live-1
+[INFO] 8/5/2025 | 2:56:52 PM :: 254 proxies imported for type: xyz-live-2
+[INFO] 8/5/2025 | 2:56:52 PM :: 250 proxies imported for type: xyz-live-3
+[INFO] 8/5/2025 | 2:56:52 PM :: 200 proxies imported for type: secret-1
+[INFO] 8/5/2025 | 2:56:52 PM :: 200 proxies imported for type: secret-2
+[INFO] 8/5/2025 | 2:56:52 PM :: 100 proxies imported for type: secret-3
+[INFO] 8/5/2025 | 2:56:52 PM :: 10000 proxies imported for type: koch
+[INFO] 8/5/2025 | 2:56:52 PM :: 1000 proxies imported for type: bart
+[INFO] 8/5/2025 | 2:56:52 PM :: 10000 proxies imported for type: packetstream
+[INFO] 8/5/2025 | 2:56:52 PM :: 30000 proxies imported for type: packetstream-gb
+[INFO] 8/5/2025 | 2:56:52 PM :: 10000 proxies imported for type: rampage
+[INFO] 8/5/2025 | 2:56:52 PM :: 2149 proxies imported for type: private-tabs
+[INFO] 8/5/2025 | 2:56:52 PM :: 10000 proxies imported for type: vital
+[WARN] 8/5/2025 | 2:56:53 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.1',
+    port: 2074,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[WARN] 8/5/2025 | 2:56:54 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.2',
+    port: 2983,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[WARN] 8/5/2025 | 2:56:54 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.3',
+    port: 2008,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[WARN] 8/5/2025 | 2:56:55 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.4',
+    port: 2537,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[WARN] 8/5/2025 | 2:56:56 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.5',
+    port: 2087,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[WARN] 8/5/2025 | 2:56:57 PM :: {
+  proxy: {
+    protocol: 'http',
+    host: '67.103.166.6',
+    port: 2302,
+    auth: { username: 'OKDKOS', password: 'OKDKOS' }
+  },
+  message: 'Request failed with status code 403'
+}
+[ERROR] 8/5/2025 | 3:13:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:13:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:14:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:14:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:15:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:15:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:16:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:16:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:17:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:17:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:18:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:18:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:19:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:19:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:20:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:20:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:21:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:21:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:22:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:22:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:23:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:23:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:24:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:24:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:25:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:25:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:26:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:26:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:27:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:27:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:28:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:28:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:29:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:29:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:30:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:30:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:31:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:31:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:32:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:32:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:33:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:33:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:34:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:34:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:35:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:35:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:36:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:36:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:37:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:37:21 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:54:30 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:54:30 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 3:59:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 3:59:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 4:00:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 4:00:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 4:01:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 4:01:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 4:02:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 4:02:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:
+[ERROR] 8/5/2025 | 4:03:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired queueItTasks from TaskSchema:
+[ERROR] 8/5/2025 | 4:03:20 PM :: MongoNotConnectedError: Client must be connected before running operations
+    at executeOperationAsync (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:94:13)
+    at /Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:30
+    at maybeCallback (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/utils.ts:373:19)
+    at executeOperation (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/operations/execute_operation.ts:79:23)
+    at AggregationCursor._initialize (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/aggregation_cursor.ts:71:21)
+    at AggregationCursor.[kInit] (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:641:10)
+    at node:internal/util:470:21
+    at new Promise (<anonymous>)
+    at bound [kInit] (node:internal/util:456:12)
+    at next (/Users/kbmac/Desktop/_main/Programming/Personal_Programming/Developer/more-hands/node_modules/mongoose/node_modules/mongodb/src/cursor/abstract_cursor.ts:716:50) {
+  [Symbol(errorLabels)]: Set(0) {}
+} Error cleaning expired documents from QueueItSchema:

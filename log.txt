@@ -1,0 +1,19 @@
+[2025-11-04T18:13:15.579Z][INFO] 253 proxies imported for type: xyz-binned-1
+[2025-11-04T18:13:15.580Z][INFO] 50 proxies imported for type: xyz-binned-2
+[2025-11-04T18:13:15.580Z][INFO] 250 proxies imported for type: xyz-binned-3
+[2025-11-04T18:13:15.581Z][INFO] 250 proxies imported for type: xyz-live-1
+[2025-11-04T18:13:15.581Z][INFO] 251 proxies imported for type: xyz-live-2
+[2025-11-04T18:13:15.581Z][INFO] 200 proxies imported for type: secret-1
+[2025-11-04T18:13:15.582Z][INFO] 300 proxies imported for type: secret-2
+[2025-11-04T18:13:15.586Z][INFO] 10000 proxies imported for type: koch
+[2025-11-04T18:13:15.587Z][INFO] 1000 proxies imported for type: bart
+[2025-11-04T18:13:15.591Z][INFO] 10000 proxies imported for type: packetstream
+[2025-11-04T18:13:15.607Z][INFO] 30000 proxies imported for type: packetstream-gb
+[2025-11-04T18:13:15.610Z][INFO] 10000 proxies imported for type: rampage
+[2025-11-04T18:13:15.612Z][INFO] 1235 proxies imported for type: private-tabs
+[2025-11-04T18:13:15.615Z][INFO] 10000 proxies imported for type: vital
+[2025-11-04T18:13:15.615Z][INFO] 759 proxies imported for type: mpp
+[2025-11-04T18:13:15.616Z][INFO] Proxy file not found for type: zetta-1
+[2025-11-04T18:13:15.618Z][INFO] 1016 proxies imported for type: zetta-2
+[2025-11-04T18:13:15.622Z][INFO] 10000 proxies imported for type: lemon
+[2025-11-04T18:13:15.622Z][INFO] 1 proxies imported for type: testing-proxies
