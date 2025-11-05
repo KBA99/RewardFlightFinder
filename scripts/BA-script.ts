@@ -5,6 +5,23 @@ import { ProxyImport } from '../proxy/proxy-import';
 
 console.log('==> Starting Script');
 
+// Filter dates based on cabin classes
+const filterByCabinClasses = (dates: any[], cabinClasses: string[]) => {
+	return dates.filter((dateObj) => {
+		try {
+			const dateKey = Object.keys(dateObj)[0];
+			const availability = dateObj[dateKey];
+
+			// Check if any of the specified cabin classes have seats
+			return cabinClasses.some((cabinClass) => {
+				return availability[cabinClass]?.seats > 0;
+			});
+		} catch (error) {
+			return false;
+		}
+	});
+};
+
 // Check a single flight configuration
 const checkFlight = async (flightConfig: any) => {
 	const {
@@ -14,8 +31,10 @@ const checkFlight = async (flightConfig: any) => {
 		destination,
 		destinationAirport,
 		passengers,
+		cabinClasses,
 		outbound,
 		inbound,
+		webhookUrl,
 	} = flightConfig;
 
 	const config = {
@@ -58,7 +77,7 @@ const checkFlight = async (flightConfig: any) => {
 
 		// Process outbound flights
 		if (outbound?.enabled && outDates) {
-			const outboundAvailableDates = getAvailableDatesV2(
+			let outboundAvailableDates = getAvailableDatesV2(
 				outDates,
 				outbound.startDay,
 				outbound.startMonth,
@@ -68,19 +87,24 @@ const checkFlight = async (flightConfig: any) => {
 				outbound.endYear
 			);
 
+			// Filter by cabin classes if specified
+			if (cabinClasses && cabinClasses.length > 0) {
+				outboundAvailableDates = filterByCabinClasses(outboundAvailableDates, cabinClasses);
+			}
+
 			if (outboundAvailableDates.length > 0) {
 				foundFlights = true;
-				await sendWebhook(outboundAvailableDates, `${name} - Outbound`, passengers);
+				await sendWebhook(outboundAvailableDates, `${name} - Outbound`, passengers, webhookUrl);
 				console.log(
 					'\x1b[32m%s\x1b[0m',
-					`[${name}] Outbound Flight found! ${outboundAvailableDates.length} date(s) available.`
+					`[${name}] Outbound Flight found! ${outboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}.`
 				);
 			}
 		}
 
 		// Process inbound flights
 		if (inbound?.enabled && returnDates) {
-			const inboundAvailableDates = getAvailableDatesV2(
+			let inboundAvailableDates = getAvailableDatesV2(
 				returnDates,
 				inbound.startDay,
 				inbound.startMonth,
@@ -90,12 +114,17 @@ const checkFlight = async (flightConfig: any) => {
 				inbound.endYear
 			);
 
+			// Filter by cabin classes if specified
+			if (cabinClasses && cabinClasses.length > 0) {
+				inboundAvailableDates = filterByCabinClasses(inboundAvailableDates, cabinClasses);
+			}
+
 			if (inboundAvailableDates.length > 0) {
 				foundFlights = true;
-				await sendWebhook(inboundAvailableDates, `${name} - Inbound`, passengers);
+				await sendWebhook(inboundAvailableDates, `${name} - Inbound`, passengers, webhookUrl);
 				console.log(
 					'\x1b[33m%s\x1b[0m',
-					`[${name}] Inbound Flight found! ${inboundAvailableDates.length} date(s) available.`
+					`[${name}] Inbound Flight found! ${inboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}.`
 				);
 			}
 		}
@@ -135,6 +164,7 @@ const startBa = async () => {
 			destination: env.destination,
 			destinationAirport: env.destination,
 			passengers: env.passegers || 1,
+			cabinClasses: ['economy', 'premium', 'business', 'first'], // Check all classes in legacy mode
 			outbound: {
 				enabled: env.check_out_flights,
 				startDay: 10,
@@ -159,34 +189,6 @@ const startBa = async () => {
 
 	console.log(`\nNext check in ${env.cooldown_time / 1000} seconds...`);
 };
-
-function getAvailableDates(
-	dates: { [x: string]: any },
-	startDay: number,
-	endDay: number,
-	month: number,
-	year: number
-) {
-	const availableDates: any[] = [];
-
-	// Iterate through days in the specified range
-	for (let day = startDay; day < endDay; day++) {
-		// Construct date string in the format "YYYY-MM-DD"
-		const date = `${year}-${month.toString().padStart(2, '0')}-${day
-			.toString()
-			.padStart(2, '0')}`;
-
-		// Check the availability for the current date
-		const datesAvailability = dates[date];
-
-		// If there is availability for the current date, add it to the availableDates array
-		if (!!datesAvailability) {
-			availableDates.push({ [date]: datesAvailability });
-		}
-	}
-
-	return availableDates;
-}
 
 /**
  * V2 of getAvailableDates that supports date ranges across multiple months

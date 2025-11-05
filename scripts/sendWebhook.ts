@@ -1,7 +1,7 @@
 import { config as env } from '../config';
 import Axios from 'axios-https-proxy-fix';
 
-export const sendWebhook = async (dates: any[], flightType: string, passengers?: number) => {
+export const sendWebhook = async (dates: any[], flightType: string, passengers?: number, webhookUrl?: string) => {
 	// Extract flight information from the data to build dynamic URL
 	const extractFlightInfo = (dates: any[]) => {
 		let sourceCode = '';
@@ -174,9 +174,12 @@ export const sendWebhook = async (dates: any[], flightType: string, passengers?:
 		],
 	};
 
+	// Use flight-specific webhook URL, or fallback to global webhook URL
+	const targetWebhookUrl = webhookUrl || env.webhookUrl;
+
 	const config = {
 		method: 'POST',
-		url: env.webhookUrl,
+		url: targetWebhookUrl,
 		headers: {
 			'Content-Type': 'application/json',
 		},
@@ -184,7 +187,7 @@ export const sendWebhook = async (dates: any[], flightType: string, passengers?:
 	};
 
 	try {
-		if (env.webhookUrl) {
+		if (targetWebhookUrl) {
 			await Axios(config);
 			console.log(`✅ Webhook sent successfully for ${flightType} flights`);
 		} else {
@@ -195,7 +198,7 @@ export const sendWebhook = async (dates: any[], flightType: string, passengers?:
 
 		// Send backup webhook with simplified message
 		try {
-			if (env.webhookUrl) {
+			if (targetWebhookUrl) {
 				const backupData = {
 					embeds: [
 						{
@@ -213,7 +216,7 @@ export const sendWebhook = async (dates: any[], flightType: string, passengers?:
 
 				const backupConfig = {
 					method: 'POST',
-					url: env.webhookUrl,
+					url: targetWebhookUrl,
 					headers: {
 						'Content-Type': 'application/json',
 					},
