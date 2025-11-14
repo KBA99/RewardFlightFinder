@@ -5,6 +5,76 @@ import { ProxyImport } from '../proxy/proxy-import';
 
 console.log('==> Starting Script');
 
+// Notification tracking for debouncing
+interface NotificationState {
+	lastNotifiedData: string; // JSON stringified normalized flight data
+	lastNotifiedTime: number; // Timestamp in milliseconds
+}
+
+const notificationTracker = new Map<string, NotificationState>();
+const DEBOUNCE_TIME = 60 * 60 * 1000; // 1 hour in milliseconds
+
+// Extract only the meaningful data for comparison (dates, cabin classes, seat counts)
+const normalizeFlightData = (dates: any[]): any => {
+	return dates.map((dateObj) => {
+		const dateKey = Object.keys(dateObj)[0];
+		const availability = dateObj[dateKey];
+
+		// Extract only cabin class availability and seat counts
+		const normalizedAvailability: any = {};
+		['economy', 'premium', 'business', 'first'].forEach((cabinClass) => {
+			if (availability[cabinClass] && availability[cabinClass].seats > 0) {
+				normalizedAvailability[cabinClass] = {
+					seats: availability[cabinClass].seats,
+				};
+			}
+		});
+
+		return {
+			date: dateKey,
+			availability: normalizedAvailability,
+		};
+	}).sort((a, b) => a.date.localeCompare(b.date)); // Sort for consistent comparison
+};
+
+// Check if we should send a notification based on debounce rules
+const shouldSendNotification = (
+	flightKey: string,
+	currentData: any[]
+): boolean => {
+	const normalizedData = normalizeFlightData(currentData);
+	const currentDataString = JSON.stringify(normalizedData);
+	const lastState = notificationTracker.get(flightKey);
+	const now = Date.now();
+
+	// If no previous notification, send it
+	if (!lastState) {
+		return true;
+	}
+
+	// If data has changed, send notification
+	if (lastState.lastNotifiedData !== currentDataString) {
+		return true;
+	}
+
+	// If data is the same but 1 hour has passed, send notification
+	if (now - lastState.lastNotifiedTime >= DEBOUNCE_TIME) {
+		return true;
+	}
+
+	// Otherwise, skip notification (debounced)
+	return false;
+};
+
+// Update notification tracker after sending
+const updateNotificationTracker = (flightKey: string, data: any[]) => {
+	const normalizedData = normalizeFlightData(data);
+	notificationTracker.set(flightKey, {
+		lastNotifiedData: JSON.stringify(normalizedData),
+		lastNotifiedTime: Date.now(),
+	});
+};
+
 // Filter dates based on cabin classes
 const filterByCabinClasses = (dates: any[], cabinClasses: string[]) => {
 	return dates.filter((dateObj) => {
@@ -94,11 +164,21 @@ const checkFlight = async (flightConfig: any) => {
 
 			if (outboundAvailableDates.length > 0) {
 				foundFlights = true;
-				await sendWebhook(outboundAvailableDates, `${name} - Outbound`, passengers, webhookUrl);
-				console.log(
-					'\x1b[32m%s\x1b[0m',
-					`[${name}] Outbound Flight found! ${outboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}.`
-				);
+				const outboundKey = `${name}-outbound-${baseAirport}-${destinationAirport}`;
+
+				if (shouldSendNotification(outboundKey, outboundAvailableDates)) {
+					await sendWebhook(outboundAvailableDates, `${name} - Outbound`, passengers, webhookUrl);
+					updateNotificationTracker(outboundKey, outboundAvailableDates);
+					console.log(
+						'\x1b[32m%s\x1b[0m',
+						`[${name}] Outbound Flight found! ${outboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}. Notification sent.`
+					);
+				} else {
+					console.log(
+						'\x1b[36m%s\x1b[0m',
+						`[${name}] Outbound Flight found! ${outboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}. Notification skipped (debounced).`
+					);
+				}
 			}
 		}
 
@@ -121,11 +201,21 @@ const checkFlight = async (flightConfig: any) => {
 
 			if (inboundAvailableDates.length > 0) {
 				foundFlights = true;
-				await sendWebhook(inboundAvailableDates, `${name} - Inbound`, passengers, webhookUrl);
-				console.log(
-					'\x1b[33m%s\x1b[0m',
-					`[${name}] Inbound Flight found! ${inboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}.`
-				);
+				const inboundKey = `${name}-inbound-${destinationAirport}-${baseAirport}`;
+
+				if (shouldSendNotification(inboundKey, inboundAvailableDates)) {
+					await sendWebhook(inboundAvailableDates, `${name} - Inbound`, passengers, webhookUrl);
+					updateNotificationTracker(inboundKey, inboundAvailableDates);
+					console.log(
+						'\x1b[33m%s\x1b[0m',
+						`[${name}] Inbound Flight found! ${inboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}. Notification sent.`
+					);
+				} else {
+					console.log(
+						'\x1b[36m%s\x1b[0m',
+						`[${name}] Inbound Flight found! ${inboundAvailableDates.length} date(s) available in ${cabinClasses.join(', ')}. Notification skipped (debounced).`
+					);
+				}
 			}
 		}
 
